@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .header{
+	text-align:center;
 	width:100%;
 	background-color:#011e29;
 	height:50px;
 	color:white;
-	text-align:center;
 	padding:15px;
 }
 body{
